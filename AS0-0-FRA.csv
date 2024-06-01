@@ -1,0 +1,17 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+8.211.11.157,443,443,true,FRA,Europe,Frankfurt,206,7.86
+8.211.11.77,443,443,true,FRA,Europe,Frankfurt,206,7.01
+18.185.86.127,8443,443,true,FRA,Europe,Frankfurt,229,5.24
+3.121.56.114,2087,443,true,FRA,Europe,Frankfurt,229,4.42
+144.24.161.142,8443,443,true,FRA,Europe,Frankfurt,249,3.65
+3.120.144.20,8080,443,true,FRA,Europe,Frankfurt,228,3.60
+130.61.239.203,2053,443,true,FRA,Europe,Frankfurt,257,3.56
+51.116.127.112,8443,443,true,FRA,Europe,Frankfurt,256,2.34
+144.24.169.81,2053,443,true,FRA,Europe,Frankfurt,250,1.76
+4.185.171.220,8443,443,true,FRA,Europe,Frankfurt,250,1.70
+51.116.127.112,2053,443,true,FRA,Europe,Frankfurt,250,1.65
+20.218.224.219,8443,443,true,FRA,Europe,Frankfurt,257,1.46
+158.101.169.13,2053,443,true,FRA,Europe,Frankfurt,249,1.25
+51.116.121.25,8443,443,true,FRA,Europe,Frankfurt,256,0.67
+52.28.95.61,8880,8880,false,FRA,Europe,Frankfurt,230,0.00
+128.140.59.231,443,443,true,FRA,Europe,Frankfurt,8,0.00
