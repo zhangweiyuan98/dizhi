@@ -1,0 +1,15 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+35.222.230.126,8443,443,true,ORD,North America,Chicago,233,6.52
+35.222.230.126,2053,443,true,ORD,North America,Chicago,222,6.49
+3.15.147.151,2083,443,true,ORD,North America,Chicago,247,5.29
+206.217.131.12,21656,443,true,ORD,North America,Chicago,238,1.88
+198.46.215.183,50964,443,true,ORD,North America,Chicago,253,1.27
+198.46.159.248,36804,443,true,ORD,North America,Chicago,253,0.72
+206.217.131.92,26845,443,true,ORD,North America,Chicago,246,0.62
+3.133.86.114,2053,443,true,ORD,North America,Chicago,258,0.47
+107.174.250.11,34237,2096,true,ORD,North America,Chicago,233,0.18
+206.217.131.121,34237,2096,true,ORD,North America,Chicago,233,0.09
+107.174.250.144,34237,2096,true,ORD,North America,Chicago,240,0.07
+108.174.50.200,2083,443,true,ORD,North America,Chicago,265,0.05
+172.245.86.209,34237,2096,true,ORD,North America,Chicago,235,0.04
+172.245.68.220,17524,443,true,ORD,North America,Chicago,235,0.00
