@@ -1,5 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms)
-8.222.181.139,443,443,true,SIN,Asia Pacific,Singapore,62
-103.152.113.214,443,443,true,SJC,North America,San Jose,216
-34.168.218.118,443,443,true,FRA,Europe,Frankfurt,7
-35.198.72.54,443,0,true,FRA,Europe,Frankfurt,14
