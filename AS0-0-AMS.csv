@@ -1,0 +1,5 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+172.205.149.35,2053,443,true,AMS,Europe,Amsterdam,302,5.24
+51.124.191.125,8443,443,true,AMS,Europe,Amsterdam,304,4.91
+150.230.20.156,8443,443,true,AMS,Europe,Amsterdam,287,4.21
+172.205.149.35,8443,443,true,AMS,Europe,Amsterdam,288,2.80
