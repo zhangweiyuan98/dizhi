@@ -1,8 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-20.54.113.205,8443,443,true,DUB,Europe,Dublin,245,2.55
-54.74.253.197,2083,443,true,DUB,Europe,Dublin,210,0.41
-63.32.194.15,2053,443,true,DUB,Europe,Dublin,237,0.39
-54.216.40.130,8443,443,true,DUB,Europe,Dublin,229,0.10
-54.194.121.83,2053,443,true,DUB,Europe,Dublin,235,0.04
-52.49.41.80,2053,443,true,DUB,Europe,Dublin,211,0.02
-54.220.41.196,2096,443,true,DUB,Europe,Dublin,210,0.00
