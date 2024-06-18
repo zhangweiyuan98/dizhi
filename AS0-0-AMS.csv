@@ -1,7 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-209.182.102.10,443,443,true,FRA,Europe,Frankfurt,26,1.23
-51.136.161.115,2053,443,true,AMS,Europe,Amsterdam,276,0.96
-150.230.20.156,8443,443,true,AMS,Europe,Amsterdam,320,0.87
-158.101.215.45,8443,443,true,AMS,Europe,Amsterdam,326,0.60
-89.110.67.22,443,443,true,AMS,Europe,Amsterdam,993,0.04
-77.238.237.40,443,443,true,FRA,Europe,Frankfurt,27,0.00
